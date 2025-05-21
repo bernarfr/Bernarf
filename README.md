@@ -1,20 +1,17 @@
-# Bernarf
-Meu perfil no GitHub com informações sobre meus projetos e aprendizados.
-
 <h1 align="center">Olá! 👋 Eu sou o Bernar Ferreira</h1>
 
 <p align="center">
   👨‍💻 Estudante de Desenvolvimento de Sistemas <br>
   📚 17 anos | Brasil <br>
   🌱 Aprendendo C, C++, HTML, CSS, PHP, MySQL <br>
-  🧪 Praticando com XAMPP e criando meus primeiros projetos
+  🧪 Criando projetos completos com XAMPP e banco de dados
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-Sou um estudante apaixonado por tecnologia e desenvolvimento. Estou aprendendo a programar e criar sistemas que funcionam de verdade! Estou no início da jornada, mas com muita vontade de evoluir e compartilhar meus projetos aqui no GitHub.
+Sou um estudante apaixonado por tecnologia e desenvolvimento. Estou praticando linguagens de programação e construindo projetos cada vez mais completos, focando em backend com PHP e banco de dados com MySQL. Sempre buscando aprender mais!
 
 ---
 
@@ -32,9 +29,14 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento. Estou aprendendo a
 
 ### 📂 Projetos em desenvolvimento
 
-- `cadastro-php`: Sistema simples de cadastro usando PHP e MySQL
-- `site-html-css`: Meu primeiro site com HTML5 e CSS3
-- `testes-c`: Códigos de prática com C e C++
+- 🔐 **Sistema de Login com PHP & MySQL**  
+  Tela de login e cadastro de usuários com autenticação, criptografia de senha (bcrypt) e validação.
+
+- 📊 **Painel Administrativo (Dashboard)**  
+  Interface com gráficos e tabelas conectada ao banco de dados. Feito com HTML, CSS, PHP e MySQL.
+
+- 🧾 **Gerador de Relatórios em PDF**  
+  Sistema que coleta dados do banco e exporta relatórios em PDF usando PHP.
 
 ---
 
@@ -48,4 +50,3 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento. Estou aprendendo a
   Obrigado por visitar meu perfil! 🌟 <br>
   Me acompanhe enquanto evoluo como desenvolvedor 🚀
 </p>
-
